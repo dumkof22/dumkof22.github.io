@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein_sports_1" tvg-name="Bein Sports 1",Bein Sports 1
+http://16.16.211.159:3000/proxy?channel=bein_sports_1
+#EXTINF:-1 tvg-id="bein_sports_2" tvg-name="Bein Sports 2",Bein Sports 2
+http://16.16.211.159:3000/proxy?channel=bein_sports_2
+#EXTINF:-1 tvg-id="bein_sports_3" tvg-name="Bein Sports 3",Bein Sports 3
+http://16.16.211.159:3000/proxy?channel=bein_sports_3
+#EXTINF:-1 tvg-id="bein_sports_4" tvg-name="Bein Sports 4",Bein Sports 4
+http://16.16.211.159:3000/proxy?channel=bein_sports_4
+#EXTINF:-1 tvg-id="bein_sports_5" tvg-name="Bein Sports 5",Bein Sports 5
+http://16.16.211.159:3000/proxy?channel=bein_sports_5
+#EXTINF:-1 tvg-id="s_sport" tvg-name="S Sport",S Sport
+http://16.16.211.159:3000/proxy?channel=s_sport
+#EXTINF:-1 tvg-id="s_sport_2" tvg-name="S Sport 2",S Sport 2
+http://16.16.211.159:3000/proxy?channel=s_sport_2
+#EXTINF:-1 tvg-id="smart_spor" tvg-name="Smart Spor",Smart Spor
+http://16.16.211.159:3000/proxy?channel=smart_spor
+#EXTINF:-1 tvg-id="trt_spor" tvg-name="TRT Spor",TRT Spor
+http://16.16.211.159:3000/proxy?channel=trt_spor
+#EXTINF:-1 tvg-id="trt_spor_2" tvg-name="TRT Spor 2",TRT Spor 2
+http://16.16.211.159:3000/proxy?channel=trt_spor_2
+#EXTINF:-1 tvg-id="a_spor" tvg-name="A Spor",A Spor
+http://16.16.211.159:3000/proxy?channel=a_spor
+#EXTINF:-1 tvg-id="tivibu_spor_1" tvg-name="Tivibu Spor 1",Tivibu Spor 1
+http://16.16.211.159:3000/proxy?channel=tivibu_spor_1
+#EXTINF:-1 tvg-id="tivibu_spor_2" tvg-name="Tivibu Spor 2",Tivibu Spor 2
+http://16.16.211.159:3000/proxy?channel=tivibu_spor_2
+#EXTINF:-1 tvg-id="tivibu_spor_3" tvg-name="Tivibu Spor 3",Tivibu Spor 3
+http://16.16.211.159:3000/proxy?channel=tivibu_spor_3
+#EXTINF:-1 tvg-id="eurosport_1" tvg-name="Eurosport 1",Eurosport 1
+http://16.16.211.159:3000/proxy?channel=eurosport_1
+#EXTINF:-1 tvg-id="eurosport_2" tvg-name="Eurosport 2",Eurosport 2
+http://16.16.211.159:3000/proxy?channel=eurosport_2
+#EXTINF:-1 tvg-id="nba_tv" tvg-name="NBA TV",NBA TV
+http://16.16.211.159:3000/proxy?channel=nba_tv
