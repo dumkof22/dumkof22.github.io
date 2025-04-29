@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bein_sports_1" tvg-name="Bein Sports 1",Bein Sports 1
+#EXTINF:-1 tvg-id="bein_sports_1" tvg-name="Bein Sports 1" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/beIN/beIN-Sports-1.png",Bein Sports 1
 http://16.16.211.159:3000/proxy?channel=bein_sports_1
-#EXTINF:-1 tvg-id="bein_sports_2" tvg-name="Bein Sports 2",Bein Sports 2
+#EXTINF:-1 tvg-id="bein_sports_2" tvg-name="Bein Sports 2" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/beIN/beIN-Sports-2.png",Bein Sports 2
 http://16.16.211.159:3000/proxy?channel=bein_sports_2
-#EXTINF:-1 tvg-id="bein_sports_3" tvg-name="Bein Sports 3",Bein Sports 3
+#EXTINF:-1 tvg-id="bein_sports_3" tvg-name="Bein Sports 3" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/beIN/beIN-Sports-3.png",Bein Sports 3
 http://16.16.211.159:3000/proxy?channel=bein_sports_3
-#EXTINF:-1 tvg-id="bein_sports_4" tvg-name="Bein Sports 4",Bein Sports 4
+#EXTINF:-1 tvg-id="bein_sports_4" tvg-name="Bein Sports 4" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/beIN/beIN-Sports-4.png",Bein Sports 4
 http://16.16.211.159:3000/proxy?channel=bein_sports_4
-#EXTINF:-1 tvg-id="bein_sports_5" tvg-name="Bein Sports 5",Bein Sports 5
+#EXTINF:-1 tvg-id="bein_sports_5" tvg-name="Bein Sports 5" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/beIN/beIN-Sports-5.png",Bein Sports 5
 http://16.16.211.159:3000/proxy?channel=bein_sports_5
-#EXTINF:-1 tvg-id="s_sport" tvg-name="S Sport",S Sport
+#EXTINF:-1 tvg-id="s_sport" tvg-name="S Sport" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/S-Sport.png",S Sport
 http://16.16.211.159:3000/proxy?channel=s_sport
-#EXTINF:-1 tvg-id="s_sport_2" tvg-name="S Sport 2",S Sport 2
+#EXTINF:-1 tvg-id="s_sport_2" tvg-name="S Sport 2" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/S-Sport-2.png",S Sport 2
 http://16.16.211.159:3000/proxy?channel=s_sport_2
-#EXTINF:-1 tvg-id="smart_spor" tvg-name="Smart Spor",Smart Spor
+#EXTINF:-1 tvg-id="smart_spor" tvg-name="Smart Spor" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/Smart-Spor.png",Smart Spor
 http://16.16.211.159:3000/proxy?channel=smart_spor
-#EXTINF:-1 tvg-id="trt_spor" tvg-name="TRT Spor",TRT Spor
+#EXTINF:-1 tvg-id="trt_spor" tvg-name="TRT Spor" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/TRT-Spor.png",TRT Spor
 http://16.16.211.159:3000/proxy?channel=trt_spor
-#EXTINF:-1 tvg-id="trt_spor_2" tvg-name="TRT Spor 2",TRT Spor 2
+#EXTINF:-1 tvg-id="trt_spor_2" tvg-name="TRT Spor 2" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/TRT-Spor-2.png",TRT Spor 2
 http://16.16.211.159:3000/proxy?channel=trt_spor_2
-#EXTINF:-1 tvg-id="a_spor" tvg-name="A Spor",A Spor
+#EXTINF:-1 tvg-id="a_spor" tvg-name="A Spor" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/A-Spor.png",A Spor
 http://16.16.211.159:3000/proxy?channel=a_spor
-#EXTINF:-1 tvg-id="tivibu_spor_1" tvg-name="Tivibu Spor 1",Tivibu Spor 1
+#EXTINF:-1 tvg-id="tivibu_spor_1" tvg-name="Tivibu Spor 1" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/Tivibu-Spor-1.png",Tivibu Spor 1
 http://16.16.211.159:3000/proxy?channel=tivibu_spor_1
-#EXTINF:-1 tvg-id="tivibu_spor_2" tvg-name="Tivibu Spor 2",Tivibu Spor 2
+#EXTINF:-1 tvg-id="tivibu_spor_2" tvg-name="Tivibu Spor 2" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/Tivibu-Spor-2.png",Tivibu Spor 2
 http://16.16.211.159:3000/proxy?channel=tivibu_spor_2
-#EXTINF:-1 tvg-id="tivibu_spor_3" tvg-name="Tivibu Spor 3",Tivibu Spor 3
+#EXTINF:-1 tvg-id="tivibu_spor_3" tvg-name="Tivibu Spor 3" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/Turkey/Tivibu-Spor-3.png",Tivibu Spor 3
 http://16.16.211.159:3000/proxy?channel=tivibu_spor_3
-#EXTINF:-1 tvg-id="eurosport_1" tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport_1" tvg-name="Eurosport 1" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/International_Sports/Eurosport-1.png",Eurosport 1
 http://16.16.211.159:3000/proxy?channel=eurosport_1
-#EXTINF:-1 tvg-id="eurosport_2" tvg-name="Eurosport 2",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport_2" tvg-name="Eurosport 2" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/International_Sports/Eurosport-2.png",Eurosport 2
 http://16.16.211.159:3000/proxy?channel=eurosport_2
-#EXTINF:-1 tvg-id="nba_tv" tvg-name="NBA TV",NBA TV
+#EXTINF:-1 tvg-id="nba_tv" tvg-name="NBA TV" group-title="TR:Sports" tvg-logo="https://iptvboss.xyz/logos/USA/NBA-TV.png",NBA TV
 http://16.16.211.159:3000/proxy?channel=nba_tv
